@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Shoppingapp Component Layout Structure
 
-![alt text](https://usatbroncoswire.files.wordpress.com/2019/08/drew-lock-injury-1.jpg?w=1000&h=600&crop=1)
+![app layout](src/assets/images/app-layout.png)
 
 ## Development server
 
