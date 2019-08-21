@@ -2,9 +2,9 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.2.
 
-# Shoppingapp Component Layout Structure
+## Shoppingapp Component Layout Structure
 
-![App Layout](src/app/assets/images/app-layout.png)
+![alt text](https://usatbroncoswire.files.wordpress.com/2019/08/drew-lock-injury-1.jpg?w=1000&h=600&crop=1)
 
 ## Development server
 
